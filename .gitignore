@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+.sfdx 
+.sf
+
+dist
+build
+cdk.out
+
+.idea
+
+.env
+start.sh
+lint.sh
+deploy.sh
