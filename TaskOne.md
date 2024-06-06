@@ -32,7 +32,7 @@ The goal of this task is to deploy the NestJS application on an EC2 instance and
 ### 3. Create a Repo Secret
    - Create a repository secret with the name 'ROLE_TO_ASSUME'.
 
-### 4. Deploy GitHub Actions
+### 4. Deploy GitHub Actions (Alternatively, clone the repo, and deploy the cdk locally)
    - Deploy the GitHub Actions workflow with workflow dispatch, which will create the EC2 instance and its dependent resources. (If CDK deploy fails, try to bootstrap your environment and try again)
 
 ### 5. Modify Security Group and EC2 Instance Role
