@@ -46,4 +46,5 @@ The goal of this task is to deploy the NestJS application on an EC2 instance and
 ## Conclusion
 Congratulations on completing the AWS Services Learning Task! By completing this task, you have gained hands-on experience with deploying applications on AWS EC2, configuring security settings, and managing IAM roles. We hope this task has been a valuable learning experience for you.
 
+### A star on the repo will be appreciated.
 ## GO TO CLOUDFORMATION, AND DELETE THE 'ATHERIA**' STACK AFTER COMPLETION OF YOUR TASK
